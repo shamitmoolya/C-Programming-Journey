@@ -10,9 +10,7 @@ int main()
             printf("Enter the integer :\n");
             scanf("%d", &num);
 
-            printf("Your integer was %d.", num);
-
-            return 0;
+            printf("Your integer was %d.\n", num);
 
         // MAXIMUM SIZE :-
         // DATATYPE            BITS          MAX_SIZE     FORMAT SPECIFIER
@@ -35,9 +33,7 @@ int main()
         printf("Enter the second integer :\n");
         scanf("%d", &b);
 
-        printf("The Sum : %d.", a+b);
-
-        return 0;
+        printf("The Sum : %d.\n", a+b);
     }
 
     {
@@ -47,9 +43,7 @@ int main()
         printf("Enter the number :\n");
         scanf("%f", &a);
 
-        printf("Your number was %.2f.", a);
-
-        return 0;
+        printf("Your number was %.2f.\n", a);
     }
 
     {
@@ -72,8 +66,6 @@ int main()
         scanf("%d", &b);
 
         printf("Roll No : %d \nMarks : %d", a, b);
-
-        return 0;
         
     /*printf("\n"): Moves the cursor to the next line (Outputs data).
     scanf("\n"): Tells the program to wait for the user to type something non-blank (Inputs data). 
@@ -92,6 +84,8 @@ int main()
     Adding your own \n inside scanf creates a "greedy" search for whitespace that forces the user to provide extra input just to break the loop.*/
 
     }
+
+    return 0;
 
 }
 

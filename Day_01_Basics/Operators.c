@@ -25,7 +25,6 @@ int main()
         printf("The product : %d\n", a*b);
         printf("The quotient : %d\n", a/b);
 
-        return 0;
     }
 
     {
@@ -45,8 +44,6 @@ int main()
         printf("Area : %.2f\n", l*b);
         printf("Perimeter : %.2f\n", 2*(l+b));
 
-        return 0;
-
     // Note that we used 2*(l+b) instead of 2(l+b) as if we did it then the compiler considers it to be a function as printf(..) where 2 is considered an identifier as printf.
 
     }
@@ -60,8 +57,6 @@ int main()
         scanf("%f", &r);
 
         printf("Area of circle : %.2f\n", 3.14 * pow(r, 2));
-
-        return 0;
         
     // look we didn't use 3.14*(r**2) as the exponential operator ** doesn't exist in C.
     // instead in C we can use :- 
@@ -70,6 +65,8 @@ int main()
     //      2) 3.14 * pow(r, 2) - but this will require the math.h library.
     }
 
+    return 0;
+    
 }
 
 

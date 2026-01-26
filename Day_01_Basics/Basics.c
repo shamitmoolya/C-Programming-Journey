@@ -11,7 +11,6 @@ int main()
         printf("Hello World\n");
         printf("Welcome to C Programming\n");
 
-        return 0;
     }
 
     //2
@@ -26,7 +25,6 @@ int main()
 
         // We used an array of characters as string isn't a datatype in C. 
 
-        return 0;
     }
 
     //3
@@ -35,9 +33,10 @@ int main()
 
         // Escape sequence :- \n  
 
-        return 0;
     }
 
+    return 0; 
+    
 }
 
 
