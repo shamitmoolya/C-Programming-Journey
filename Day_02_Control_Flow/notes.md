@@ -12,8 +12,10 @@
 
 ✔ 5. Factorial of a number (using for loop)
 
-✔ 2. Check if a number is positive, negative, zero
+✔ 6. Sum of first N natural numbers
 
-✔ 3. Find the largest of 3 numbers
+✔ 7. Reverse a number (e.g., 123 → 321)
 
-✔ 4. Check whether a number is prime or not
+✔ 8. Count digits in a number
+
+✔ 9. Sum of digits of a number
