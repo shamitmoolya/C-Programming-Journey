@@ -64,3 +64,8 @@
 ✔ 14. Day of the week using switch (1 = Monday … 7 = Sunday)
 
 
+## Hard Programs Practice Questions
+
+✔ 15. Check if a number is Armstrong
+
+✔ 16. Check if a number is Palindrome (121 → palindrome)
