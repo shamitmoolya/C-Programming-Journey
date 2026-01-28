@@ -8,6 +8,7 @@
 
 ✔ 4. Check whether a number is prime or not
 
+
 ## Loop-Based Practice Questions
 
 ✔ 5. Factorial of a number (using for loop)
@@ -19,3 +20,47 @@
 ✔ 8. Count digits in a number
 
 ✔ 9. Sum of digits of a number
+
+
+## Pattern Programs Practice Questions
+
+✔ 10. Print this pattern:
+
+    *
+    **
+    ***
+    ****
+
+
+✔ 11. Print numbers:
+
+    1
+    12
+    123
+    1234
+
+
+✔ 12. Print inverted numbers:
+
+    1234
+    123
+    12
+    1
+
+
+✔ 13. Print inverted stars:
+
+    ****
+    ***
+    **
+    *
+
+
+## Switch Programs Practice Questions
+
+✔ 13. Calculator using switch ( +, -, *, / )
+
+
+✔ 14. Day of the week using switch (1 = Monday … 7 = Sunday)
+
+
